@@ -1,4 +1,11 @@
 /venv/
+/.venv/
+jobs_*.csv
+jobs_*.xlsx
+jobs_*.json
+jobs.csv
+jobs.xlsx
+.ipynb_checkpoints/
 /.idea
 **/__pycache__/
 **/.pytest_cache/
